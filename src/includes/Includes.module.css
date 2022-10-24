@@ -23,6 +23,11 @@
     padding-bottom: 5px;
 }
 
+.blog_name_div {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 .profile {
     justify-content: center;
     display: flex;
@@ -67,4 +72,12 @@
     list-style-position: inside;
     text-indent: -30px;
     list-style: none;
+}
+
+/* ADS */
+.ads_body {
+    width: 15%;
+    min-width: 50px;
+    max-width: 200px;
+    background-color: brown;
 }

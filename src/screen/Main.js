@@ -1,6 +1,7 @@
 import React from 'react';
 import Header from '../includes/Header';
 import styles from './Main.module.css';
+import Ads from '../includes/Ads';
 
 const Main = () => {
 
@@ -10,6 +11,7 @@ const Main = () => {
             <div>
                 asd
             </div>
+            <Ads/>
         </div>
     );
 }
