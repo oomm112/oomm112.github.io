@@ -10,9 +10,6 @@ const Main = () => {
             <div>
                 asd
             </div>
-            <div>
-                asd
-            </div>
         </div>
     );
 }
