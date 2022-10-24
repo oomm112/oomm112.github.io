@@ -1,0 +1,7 @@
+.body{
+    margin: 0;
+    padding:  0;
+    flex-direction: row;
+    display: flex;
+    height: 1200px;
+}

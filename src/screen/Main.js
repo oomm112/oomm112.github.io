@@ -1,12 +1,15 @@
 import React from 'react';
 import Header from '../includes/Header';
-import './Main.css';
+import styles from './Main.module.css';
 
 const Main = () => {
 
     return(
-        <div className='body'>
+        <div className={styles.body}>
             <Header/>
+            <div>
+                asd
+            </div>
             <div>
                 asd
             </div>
